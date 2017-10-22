@@ -49,14 +49,15 @@ a:active{
 ul li:first-child {
   background: #f9a91a;
 }
-
+ /*agregando cambios solamente en el primer elemento de la lista*/
 ul li:first-child a {
   color: #fff;
 }
-
+/*agregando hoover solamente en el primer elemento de la lista*/
 ul li:first-child a:hover {
   color: #000;
 }
+/*agregando active solamente en el primer elemento de la lista*/
 ul li:first-child a:active {
   color: #fff;
 }
